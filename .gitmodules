@@ -36,6 +36,10 @@
 	path = aws/device-defender-for-aws-iot-embedded-sdk
 	branch = main
 	url = https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk.git
+[submodule "aws/ota-for-aws-iot-embedded-sdk"]
+	path = aws/ota-for-aws-iot-embedded-sdk
+	branch = main
+	url = https://github.com/aws/ota-for-aws-iot-embedded-sdk.git
 [submodule "aws/fleet-provisioning-for-aws-iot-embedded-sdk"]
 	path = aws/fleet-provisioning-for-aws-iot-embedded-sdk
 	url = https://github.com/aws/Fleet-Provisioning-for-AWS-IoT-embedded-sdk.git
