@@ -51,7 +51,3 @@
 [submodule "aws/aws-iot-core-mqtt-file-streams-embedded-c"]
 	path = aws/aws-iot-core-mqtt-file-streams-embedded-c
 	url = https://github.com/aws/aws-iot-core-mqtt-file-streams-embedded-c
-[submodule "aws/ota-for-aws-iot-embedded-sdk"]
-	path = aws/ota-for-aws-iot-embedded-sdk
-	url = https://github.com/aws/ota-for-aws-iot-embedded-sdk.git
-	branch = main
