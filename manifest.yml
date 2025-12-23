@@ -46,7 +46,7 @@ dependencies:
       url: "https://github.com/FreeRTOS/coreSNTP.git"
       path: "FreeRTOS/coreSNTP"
   - name: "Cellular Interface"
-    version: "v1.4.0"
+    version: "sitehive-main"
     repository:
       type: "git"
       url: "https://github.com/site-hive/FreeRTOS-Cellular-Interface.git"
@@ -93,5 +93,11 @@ dependencies:
       type: "git"
       url: "https://github.com/aws/aws-iot-core-mqtt-file-streams-embedded-c.git"
       path: "aws/aws-iot-core-mqtt-file-streams-embedded-c"
+  - name: "ota-for-aws-iot-embedded-sdk"
+    version: "main"
+    repository:
+      type: "git"
+      url: "https://github.com/aws/ota-for-aws-iot-embedded-sdk.git"
+      path: "aws/ota-for-aws-iot-embedded-sdk"
 
 license: "MIT"
