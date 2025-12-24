@@ -94,7 +94,7 @@ dependencies:
       url: "https://github.com/aws/aws-iot-core-mqtt-file-streams-embedded-c.git"
       path: "aws/aws-iot-core-mqtt-file-streams-embedded-c"
   - name: "ota-for-aws-iot-embedded-sdk"
-    version: "main"
+    version: "477ee9a556bb2e44cc06b424c78670e17b759e81"
     repository:
       type: "git"
       url: "https://github.com/aws/ota-for-aws-iot-embedded-sdk.git"
